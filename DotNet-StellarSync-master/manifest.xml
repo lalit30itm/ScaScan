@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Name>StellarSync</Name>
+    <Guid>D6E0CF16-03FE-4CB7-93B5-A0CE34656E6B</Guid>
+    <Version>v0.2.0</Version>
+</PluginManifest>

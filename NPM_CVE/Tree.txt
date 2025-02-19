@@ -1,0 +1,117 @@
+{
+  "name": "NPM_CVE",
+  "dependencies": {
+    "express-xss-sanitizer": {
+      "version": "1.1.1",
+      "resolved": "https://registry.npmjs.org/express-xss-sanitizer/-/express-xss-sanitizer-1.1.1.tgz",
+      "overridden": false,
+      "dependencies": {
+        "sanitize-html": {
+          "version": "2.13.0",
+          "resolved": "https://registry.npmjs.org/sanitize-html/-/sanitize-html-2.13.0.tgz",
+          "overridden": false,
+          "dependencies": {
+            "deepmerge": {
+              "version": "4.3.1",
+              "resolved": "https://registry.npmjs.org/deepmerge/-/deepmerge-4.3.1.tgz",
+              "overridden": false
+            },
+            "escape-string-regexp": {
+              "version": "4.0.0",
+              "resolved": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz",
+              "overridden": false
+            },
+            "htmlparser2": {
+              "version": "8.0.2",
+              "resolved": "https://registry.npmjs.org/htmlparser2/-/htmlparser2-8.0.2.tgz",
+              "overridden": false,
+              "dependencies": {
+                "domelementtype": {
+                  "version": "2.3.0",
+                  "resolved": "https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz",
+                  "overridden": false
+                },
+                "domhandler": {
+                  "version": "5.0.3",
+                  "resolved": "https://registry.npmjs.org/domhandler/-/domhandler-5.0.3.tgz",
+                  "overridden": false,
+                  "dependencies": {
+                    "domelementtype": {
+                      "version": "2.3.0"
+                    }
+                  }
+                },
+                "domutils": {
+                  "version": "3.1.0",
+                  "resolved": "https://registry.npmjs.org/domutils/-/domutils-3.1.0.tgz",
+                  "overridden": false,
+                  "dependencies": {
+                    "dom-serializer": {
+                      "version": "2.0.0",
+                      "resolved": "https://registry.npmjs.org/dom-serializer/-/dom-serializer-2.0.0.tgz",
+                      "overridden": false,
+                      "dependencies": {
+                        "domelementtype": {
+                          "version": "2.3.0"
+                        },
+                        "domhandler": {
+                          "version": "5.0.3"
+                        },
+                        "entities": {
+                          "version": "4.5.0"
+                        }
+                      }
+                    },
+                    "domelementtype": {
+                      "version": "2.3.0"
+                    },
+                    "domhandler": {
+                      "version": "5.0.3"
+                    }
+                  }
+                },
+                "entities": {
+                  "version": "4.5.0",
+                  "resolved": "https://registry.npmjs.org/entities/-/entities-4.5.0.tgz",
+                  "overridden": false
+                }
+              }
+            },
+            "is-plain-object": {
+              "version": "5.0.0",
+              "resolved": "https://registry.npmjs.org/is-plain-object/-/is-plain-object-5.0.0.tgz",
+              "overridden": false
+            },
+            "parse-srcset": {
+              "version": "1.0.2",
+              "resolved": "https://registry.npmjs.org/parse-srcset/-/parse-srcset-1.0.2.tgz",
+              "overridden": false
+            },
+            "postcss": {
+              "version": "8.4.41",
+              "resolved": "https://registry.npmjs.org/postcss/-/postcss-8.4.41.tgz",
+              "overridden": false,
+              "dependencies": {
+                "nanoid": {
+                  "version": "3.3.7",
+                  "resolved": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.7.tgz",
+                  "overridden": false
+                },
+                "picocolors": {
+                  "version": "1.0.1",
+                  "resolved": "https://registry.npmjs.org/picocolors/-/picocolors-1.0.1.tgz",
+                  "overridden": false
+                },
+                "source-map-js": {
+                  "version": "1.2.0",
+                  "resolved": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.0.tgz",
+                  "overridden": false
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
